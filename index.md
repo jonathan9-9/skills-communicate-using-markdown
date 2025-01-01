@@ -19,3 +19,9 @@ if len(guess) > 1:
                 print('You ran out of tries...')
                 break
 ```
+
+
+
+- [ ] Use Github Actions
+- [ ] Obtain Azure Certification for Developers
+- [x] Build Python Projects
